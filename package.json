@@ -2,6 +2,7 @@
   "name": "sa-plotter2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://qtrix.github.io/sa-plotter2",
   "dependencies": {
     "@ant-design/colors": "^7.0.2",
     "@ant-design/icons": "^5.3.1",

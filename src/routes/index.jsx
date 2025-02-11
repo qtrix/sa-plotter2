@@ -5,6 +5,6 @@ import MainRoutes from './MainRoutes';
 
 // ==============================|| ROUTING RENDER ||============================== //
 
-const router = createBrowserRouter([MainRoutes], { basename: process.env.REACT_APP_BASE_NAME || '/' });
+const router = createBrowserRouter([MainRoutes],{ basename: '/sa-plotter2' });
 
 export default router;

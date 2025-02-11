@@ -16,17 +16,12 @@ const MainRoutes = {
   element: <Dashboard />,
   children: [
     {
-      path: '/',
+      index: true, // Default page when visiting '/'
       element: <DashboardDefault />
     },
     {
-      path: 'dashboard',
-      children: [
-        {
-          path: 'default',
-          element: <DashboardDefault />
-        }
-      ]
+      path: 'dashboard/default',
+      element: <DashboardDefault />
     },
     {
       path: 'simulator',
