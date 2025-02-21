@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/sa-plotter2/static/css/main.fe16bdc3.css",
-    "main.js": "/sa-plotter2/static/js/main.9ffd2ab1.js",
-    "static/js/634.f01d1b59.chunk.js": "/sa-plotter2/static/js/634.f01d1b59.chunk.js",
-    "static/js/67.4fa08103.chunk.js": "/sa-plotter2/static/js/67.4fa08103.chunk.js",
+    "main.js": "/sa-plotter2/static/js/main.4091c7af.js",
+    "static/js/446.33a4450e.chunk.js": "/sa-plotter2/static/js/446.33a4450e.chunk.js",
+    "static/js/804.b1fbaa88.chunk.js": "/sa-plotter2/static/js/804.b1fbaa88.chunk.js",
     "static/js/488.d0445b65.chunk.js": "/sa-plotter2/static/js/488.d0445b65.chunk.js",
-    "static/js/537.51159c7b.chunk.js": "/sa-plotter2/static/js/537.51159c7b.chunk.js",
+    "static/js/576.8d599542.chunk.js": "/sa-plotter2/static/js/576.8d599542.chunk.js",
+    "static/js/2.bb80f4c7.chunk.js": "/sa-plotter2/static/js/2.bb80f4c7.chunk.js",
     "static/media/inter-latin-ext-600-normal.woff": "/sa-plotter2/static/media/inter-latin-ext-600-normal.0acb54c755dec53de476.woff",
     "static/media/inter-latin-ext-700-normal.woff": "/sa-plotter2/static/media/inter-latin-ext-700-normal.149d81a49bd1ff0e6711.woff",
     "static/media/inter-latin-ext-500-normal.woff": "/sa-plotter2/static/media/inter-latin-ext-500-normal.2b8be079a0e965b2f035.woff",
@@ -165,14 +166,15 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/sa-plotter2/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/sa-plotter2/index.html",
     "main.fe16bdc3.css.map": "/sa-plotter2/static/css/main.fe16bdc3.css.map",
-    "main.9ffd2ab1.js.map": "/sa-plotter2/static/js/main.9ffd2ab1.js.map",
-    "634.f01d1b59.chunk.js.map": "/sa-plotter2/static/js/634.f01d1b59.chunk.js.map",
-    "67.4fa08103.chunk.js.map": "/sa-plotter2/static/js/67.4fa08103.chunk.js.map",
+    "main.4091c7af.js.map": "/sa-plotter2/static/js/main.4091c7af.js.map",
+    "446.33a4450e.chunk.js.map": "/sa-plotter2/static/js/446.33a4450e.chunk.js.map",
+    "804.b1fbaa88.chunk.js.map": "/sa-plotter2/static/js/804.b1fbaa88.chunk.js.map",
     "488.d0445b65.chunk.js.map": "/sa-plotter2/static/js/488.d0445b65.chunk.js.map",
-    "537.51159c7b.chunk.js.map": "/sa-plotter2/static/js/537.51159c7b.chunk.js.map"
+    "576.8d599542.chunk.js.map": "/sa-plotter2/static/js/576.8d599542.chunk.js.map",
+    "2.bb80f4c7.chunk.js.map": "/sa-plotter2/static/js/2.bb80f4c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe16bdc3.css",
-    "static/js/main.9ffd2ab1.js"
+    "static/js/main.4091c7af.js"
   ]
 }
